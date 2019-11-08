@@ -1,7 +1,6 @@
 import React from "react";
 
-import userIcon from "../../assets/user.png";
-import "./style.css";
+import userIcon from "../assets/user.png";
 
 function Header() {
   return (

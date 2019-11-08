@@ -1,26 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=McLaren|Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=McLaren|Roboto&display=swap");
 
 .header {
-  background-color: #4a90e2;
+  background-color: #4267b2;
   display: flex;
   align-items: center;
-  padding: 20px 10px;
+  padding: 8px 10px;
 }
 
-h1 {
+.til-facebook {
   color: #ffffff;
   margin: 0px 30px;
-  font: 35px 'McLaren';
+  font: 35px "McLaren";
 }
 
-img {
+.img-profile {
   width: 40px;
   height: 40px;
   margin-right: 30px;
 }
 
-p{
-  font: 20px 'Roboto';
+.p-profile {
+  font: 15px "Roboto";
   color: #ffffff;
   margin: 0px 15px;
 }

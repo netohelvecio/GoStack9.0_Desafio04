@@ -7,12 +7,12 @@ function Header() {
   return (
     <div className="header">
       <div>
-        <h1>facebook.</h1>
+        <h1 className="til-facebook">facebook.</h1>
       </div>
 
       <div className="perfil">
-        <p>Meu perfil</p>
-        <img src={userIcon} alt="icon" />
+        <p className="p-profile" >Meu perfil</p>
+        <img className="img-profile" src={userIcon} alt="icon" />
       </div>
     </div>
   );
